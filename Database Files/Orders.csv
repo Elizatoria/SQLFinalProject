@@ -1,0 +1,1001 @@
+Order ID,Phone,Fandom,Type of Artwork,Price,Order Status
+1,309-690-3290,XXY,Plushie of Favorite Character,$70.30,true
+2,267-116-9309,His Kind of Woman,Plushie of Favorite Character,$80.14,true
+3,179-526-0713,"Outlaw, The (Lope)",Drawing of Favorite Character,$67.31,true
+4,392-216-3014,"Deer Hunter, The",Plushie of OC,$91.00,true
+5,222-443-3255,Rage,Drawing of Favorite Character,$92.18,false
+6,886-405-8570,"Yes, But... (Oui, mais...)",Drawing of an OC,$76.65,false
+7,546-356-6933,Drones,Plushie of Favorite Character,$78.77,false
+8,521-302-1246,Patton Oswalt: Tragedy Plus Comedy Equals Time,Drawing of Favorite Character,$92.71,false
+9,414-738-8113,Children of the Night,Plushie of Favorite Character,$70.14,false
+10,382-862-5936,Pacific Rim,Plushie of OC,$79.21,true
+11,705-753-2893,Wait Until Dark,Drawing of an OC,$83.06,true
+12,450-863-5014,You've Got Mail,Drawing of an OC,$54.48,true
+13,893-732-7303,"Enemy Below, The",Drawing of Favorite Character,$90.66,false
+14,665-839-3689,Open Heart,Drawing of Favorite Character,$82.30,true
+15,799-942-5070,Aloha Summer,Drawing of an OC,$55.12,true
+16,536-956-4767,Goofy Movies Number One,Drawing of Favorite Character,$76.21,false
+17,420-508-8743,"Boys from Fengkuei, The (Feng gui lai de ren)",Drawing of Favorite Character,$92.14,true
+18,939-333-0328,Westworld,Drawing of an OC,$70.64,false
+19,670-984-8778,Buck,Drawing of an OC,$65.27,true
+20,353-332-6236,"Liar, The (Valehtelija)",Plushie of OC,$98.62,false
+21,546-936-2438,Palookaville,Drawing of an OC,$80.42,true
+22,508-518-3788,"Lone Ranger, The",Plushie of Favorite Character,$76.24,true
+23,405-812-3479,"Normal Heart, The",Drawing of Favorite Character,$81.06,true
+24,496-419-5838,"Wings of Eagles, The",Plushie of Favorite Character,$71.16,true
+25,923-747-2850,Life of Crime,Drawing of an OC,$98.15,false
+26,507-581-1163,Scream,Drawing of Favorite Character,$73.72,false
+27,644-878-8298,Mulan,Drawing of Favorite Character,$74.11,false
+28,693-240-0201,Trouble Every Day,Plushie of OC,$89.29,true
+29,358-296-7722,Tin Pan Alley,Drawing of Favorite Character,$94.23,true
+30,148-184-8273,Please Don't Eat the Daisies,Plushie of OC,$73.14,true
+31,872-679-5541,Dog Park,Drawing of Favorite Character,$88.49,true
+32,385-929-4752,Monkeybone,Drawing of Favorite Character,$85.99,true
+33,483-112-4257,Dakota,Plushie of OC,$88.59,false
+34,135-317-1377,Zoom,Plushie of OC,$69.01,true
+35,708-631-8299,Mysterious Island,Plushie of OC,$65.28,false
+36,534-316-7733,Open Season 2,Drawing of an OC,$71.27,true
+37,553-263-9185,Zipper,Plushie of OC,$82.85,true
+38,694-147-6917,Cremaster 2,Plushie of OC,$83.78,false
+39,222-476-6151,Repo! The Genetic Opera,Drawing of Favorite Character,$99.23,false
+40,891-137-3637,Parked,Drawing of an OC,$52.63,false
+41,756-494-7665,Dead Time: Kala,Drawing of Favorite Character,$72.79,false
+42,263-922-3026,Sleepover,Plushie of OC,$97.66,false
+43,766-534-9556,Royal Wedding,Plushie of Favorite Character,$74.33,true
+44,942-830-6294,Ex-Girlfriends,Plushie of Favorite Character,$65.41,true
+45,133-190-4073,Nosferatu the Vampyre (Nosferatu: Phantom der Nacht),Drawing of an OC,$93.76,false
+46,484-578-7601,Dracula,Drawing of an OC,$95.38,true
+47,757-986-9053,Belphecor: Curse of the Mummy (Belphégor - Le fantôme du Louvre),Drawing of Favorite Character,$64.63,false
+48,814-471-6763,"Pride and the Passion, The",Plushie of OC,$95.32,true
+49,404-212-5369,Dark Victory,Plushie of OC,$75.87,true
+50,698-206-0514,Ira and Abby,Plushie of Favorite Character,$96.97,true
+51,816-663-1485,Command Performance,Drawing of an OC,$93.24,false
+52,671-108-3845,Dangerous Liaisons,Plushie of Favorite Character,$52.64,false
+53,879-338-7978,Just Go with It,Drawing of Favorite Character,$86.37,false
+54,219-687-5777,"Adventures of Arsène Lupin, The (Aventures d'Arsène Lupin, Les)",Drawing of Favorite Character,$64.21,true
+55,997-292-4445,"New York, I Love You",Drawing of an OC,$68.21,false
+56,593-620-9995,"Woodsman, The",Plushie of OC,$77.87,false
+57,117-137-2342,Beneath the Darkness,Plushie of Favorite Character,$82.25,true
+58,120-681-4040,For a Few Dollars More (Per qualche dollaro in più),Plushie of OC,$63.20,false
+59,630-855-9206,Hello Herman,Plushie of OC,$72.21,true
+60,102-558-0860,Absolon,Drawing of an OC,$68.51,true
+61,242-186-0794,Big Pun: The Legacy,Drawing of Favorite Character,$99.72,false
+62,140-367-7528,Flyboys,Plushie of Favorite Character,$88.89,true
+63,144-464-1246,Sphere,Drawing of an OC,$90.50,true
+64,586-198-6780,How the Grinch Stole Christmas (a.k.a. The Grinch),Drawing of Favorite Character,$67.18,true
+65,761-146-4601,Love Affair,Drawing of an OC,$70.63,false
+66,988-951-6146,Matti: Hell Is for Heroes (Matti),Drawing of an OC,$70.69,false
+67,764-202-0803,Toolbox Murders,Drawing of an OC,$67.00,true
+68,698-815-0051,Butterfly on a Wheel (Shattered),Plushie of Favorite Character,$89.92,false
+69,248-288-2290,Murder by Decree,Drawing of an OC,$67.34,true
+70,463-223-4835,Wimbledon,Drawing of an OC,$98.85,true
+71,526-456-7161,Virunga,Drawing of an OC,$94.13,true
+72,148-794-0324,Madadayo (a.k.a. Not Yet),Plushie of Favorite Character,$98.33,false
+73,486-788-7728,Taste of Cherry (Ta'm e guilass),Drawing of Favorite Character,$96.57,true
+74,223-218-3920,"Young in Heart, The",Plushie of OC,$94.96,true
+75,289-520-5077,"Spiders Part 1: The Golden Lake, The (Die Spinnen, 1. Teil: Der Goldene See)",Plushie of OC,$73.53,false
+76,254-981-9129,Death on the Staircase (Soupçons),Plushie of Favorite Character,$77.05,true
+77,857-948-1018,"Silent Night, Bloody Night",Drawing of Favorite Character,$87.78,false
+78,122-665-3895,Utopia,Plushie of Favorite Character,$76.05,true
+79,378-328-6437,Police Python 357,Plushie of OC,$70.65,true
+80,983-949-9819,Macabre,Plushie of Favorite Character,$80.32,false
+81,282-512-9635,"Return of the Pink Panther, The",Drawing of an OC,$68.74,false
+82,731-358-5642,"Long Good Friday, The",Plushie of OC,$54.49,false
+83,665-895-2995,One-Eyed Jacks,Drawing of an OC,$94.33,false
+84,704-743-9307,Way Down East,Drawing of Favorite Character,$60.68,false
+85,881-744-3883,Back in Business,Drawing of an OC,$87.80,false
+86,826-666-5072,"Sterile Cuckoo, The",Drawing of Favorite Character,$85.52,false
+87,856-806-3496,"Blind Menace, The (Shiranui kengyô)",Plushie of Favorite Character,$68.72,true
+88,301-248-2159,In Praise of Older Women,Drawing of Favorite Character,$84.68,true
+89,902-182-5255,Pan Tadeusz: The Last Foray in Lithuania (Pan Tadeusz),Drawing of an OC,$81.53,true
+90,429-939-3189,A True Mob Story,Drawing of Favorite Character,$76.46,false
+91,836-703-6434,Beethoven's 3rd,Drawing of an OC,$92.82,false
+92,195-942-3263,"Nightmare on Elm Street 2: Freddy's Revenge, A",Drawing of an OC,$82.30,true
+93,453-208-1503,An Alligator Named Daisy,Plushie of Favorite Character,$58.60,false
+94,417-544-6048,Yellow Sky,Plushie of OC,$59.38,false
+95,597-732-6038,Steamboat Willie,Plushie of Favorite Character,$56.72,true
+96,277-254-9397,Ricky Gervais Live: Animals,Drawing of an OC,$98.61,true
+97,522-406-6097,Ned Kelly,Drawing of Favorite Character,$72.67,false
+98,882-162-4273,Out of Time,Drawing of Favorite Character,$56.85,false
+99,215-346-4739,"Triumph of Love, The",Plushie of Favorite Character,$84.61,true
+100,404-655-7470,Grief,Plushie of Favorite Character,$95.29,true
+101,759-428-4389,Murder on the Orient Express,Plushie of OC,$92.60,false
+102,570-216-4529,"Pyramid, The",Plushie of OC,$84.95,true
+103,947-970-6721,How Do You Write a Joe Schermann Song,Plushie of Favorite Character,$53.15,true
+104,304-438-9088,Little Black Book,Drawing of an OC,$90.30,true
+105,272-556-8431,"Pompatus of Love, The",Drawing of Favorite Character,$55.77,true
+106,200-710-3650,They Gave Him A Gun,Drawing of Favorite Character,$79.94,false
+107,591-279-1447,Balls of Fury,Drawing of an OC,$62.87,true
+108,629-761-9376,Blue Gate Crossing (Lan se da men),Plushie of Favorite Character,$75.56,true
+109,556-224-8176,"Further Gesture, A",Plushie of Favorite Character,$87.57,true
+110,125-321-8025,"Hand of Peace: Pope Pius XII and the Holocaust, A",Drawing of Favorite Character,$90.01,false
+111,940-426-1624,"Aristocats, The",Plushie of OC,$96.53,false
+112,938-670-8521,Imagine Me & You,Drawing of an OC,$58.53,true
+113,180-680-4060,Million Dollar Arm,Drawing of Favorite Character,$90.38,true
+114,403-406-2806,Just a Kiss,Drawing of an OC,$70.38,true
+115,458-849-3646,Chaos (Kaosu),Drawing of Favorite Character,$66.69,false
+116,694-644-5874,"Onion Movie, The",Plushie of Favorite Character,$59.31,false
+117,524-709-2104,Stricken (Er komt een vrouw bij de dokter),Drawing of an OC,$79.83,false
+118,334-833-8675,"Hunchback of Notre Dame, The",Plushie of OC,$51.55,true
+119,304-992-0429,"Shrine, The",Plushie of OC,$63.07,false
+120,473-913-0748,"Crow, The",Plushie of Favorite Character,$82.77,false
+121,562-389-0960,Like Water,Drawing of an OC,$98.88,false
+122,386-333-8221,Mad Dog Time,Plushie of OC,$55.16,false
+123,267-207-4173,Asier ETA biok,Plushie of OC,$96.98,false
+124,408-163-7993,"Cougars, Inc.",Drawing of Favorite Character,$65.78,false
+125,327-271-3265,Setup (Set Up),Drawing of Favorite Character,$97.20,false
+126,688-896-7278,Gayby,Drawing of Favorite Character,$90.61,true
+127,939-209-2622,Listen to Your Heart,Drawing of Favorite Character,$66.02,false
+128,516-724-6824,Griff the Invisible,Drawing of Favorite Character,$98.99,true
+129,705-216-1046,Paid,Drawing of an OC,$55.88,true
+130,192-467-1997,Letting Go of God,Plushie of OC,$85.55,false
+131,317-872-4166,Special When Lit,Drawing of an OC,$80.76,false
+132,646-909-5361,They Drive by Night,Drawing of Favorite Character,$60.33,false
+133,246-615-9624,Death and Cremation,Drawing of an OC,$67.45,true
+134,976-766-2303,Beetle Queen Conquers Tokyo,Drawing of an OC,$73.77,true
+135,754-900-8028,Repo! The Genetic Opera,Drawing of Favorite Character,$70.29,false
+136,311-585-3137,Bridget Jones's Diary,Drawing of Favorite Character,$98.17,false
+137,371-531-1545,Fire in the Sky,Drawing of an OC,$50.04,false
+138,748-195-7999,Cyclo (Xich lo),Plushie of OC,$71.46,true
+139,452-765-1133,The Unexpected Love,Plushie of OC,$50.52,true
+140,985-660-5984,"Talent Given Us, The",Plushie of OC,$71.87,false
+141,777-485-6027,After the Fox (Caccia alla volpe),Drawing of an OC,$86.89,false
+142,533-704-3388,Crime Story (Zhong an zu),Drawing of Favorite Character,$86.02,false
+143,232-845-3038,You Ain't Seen Nothin' Yet (Vous n'avez encore rien vu),Drawing of an OC,$89.75,true
+144,338-904-2719,"Little Bit of Heaven, A",Plushie of OC,$80.98,true
+145,789-715-5364,"Newest Pledge, The",Plushie of OC,$97.97,true
+146,901-636-7983,"Mindscape of Alan Moore, The",Plushie of Favorite Character,$53.89,false
+147,749-538-7205,Once Upon a Scoundrel,Drawing of Favorite Character,$77.80,false
+148,615-713-4655,Will Ferrell: You're Welcome America - A Final Night with George W Bush,Drawing of Favorite Character,$63.00,false
+149,237-431-9456,Alfie,Drawing of an OC,$73.26,true
+150,981-175-3109,"Initiation, The",Plushie of Favorite Character,$71.49,true
+151,352-436-9838,Nobody,Drawing of Favorite Character,$99.07,true
+152,156-707-3418,Suture,Drawing of an OC,$83.29,false
+153,731-828-4161,No One Writes to the Colonel (El coronel no tiene quien le escriba),Plushie of OC,$69.93,false
+154,183-142-2248,Boom!,Plushie of OC,$69.58,false
+155,498-865-8718,Fubar,Plushie of OC,$89.51,false
+156,701-432-5288,"Awfully Big Adventure, An",Plushie of OC,$98.50,true
+157,266-935-3910,Cat on a Hot Tin Roof,Plushie of OC,$52.69,false
+158,319-964-0195,Different from You and Me (Anders als du und ich) ,Plushie of OC,$57.07,true
+159,288-183-4017,"Fantasticks, The",Drawing of Favorite Character,$54.83,false
+160,486-658-3060,Carmina or Blow Up (Carmina o revienta),Plushie of Favorite Character,$98.46,false
+161,686-201-3985,Stay Alive,Plushie of OC,$55.99,false
+162,147-634-4776,Lost in Yonkers,Plushie of OC,$61.63,false
+163,190-203-9704,"Dead Outside, The",Plushie of Favorite Character,$94.67,false
+164,441-670-4465,A Connecticut Yankee in King Arthur's Court,Plushie of Favorite Character,$83.93,true
+165,510-733-3688,Confessions of a Superhero,Drawing of an OC,$65.16,false
+166,323-911-7597,With Byrd at the South Pole,Plushie of Favorite Character,$82.51,false
+167,918-936-3215,Wild Beasts (Wild beasts - Belve feroci),Plushie of OC,$93.93,true
+168,128-423-6321,Best Men,Drawing of Favorite Character,$52.41,false
+169,540-297-4439,Mission to Moscow,Plushie of Favorite Character,$55.94,false
+170,864-896-8497,Walking on Sunshine,Plushie of OC,$52.48,false
+171,630-883-8375,Table 7,Drawing of an OC,$98.02,false
+172,365-483-3779,"Iceberg, L'",Drawing of an OC,$62.41,false
+173,357-999-1086,Page Miss Glory,Drawing of Favorite Character,$76.17,true
+174,461-288-1785,Babette Goes to War,Plushie of OC,$57.92,true
+175,333-456-7108,Freedomland,Plushie of OC,$75.90,true
+176,214-893-4854,Mary Shelley's Frankenstein (Frankenstein),Plushie of OC,$96.82,false
+177,659-820-0573,Nobody Knows Anybody (Nadie conoce a nadie),Drawing of an OC,$73.88,false
+178,595-735-1447,Days and Nights in the Forest (Aranyer Din Ratri),Plushie of OC,$83.54,false
+179,969-377-8141,Frozen Fever,Drawing of an OC,$97.06,true
+180,692-189-0787,Vampire Journals,Drawing of Favorite Character,$70.57,false
+181,619-587-6991,"Adventurer, The",Drawing of Favorite Character,$58.49,true
+182,165-689-3272,Playing,Plushie of OC,$89.36,true
+183,140-655-8493,King of Germany,Drawing of an OC,$89.54,true
+184,534-998-9673,I Like Killing Flies,Plushie of Favorite Character,$61.51,true
+185,848-454-5624,"Signal, The",Plushie of OC,$97.19,false
+186,752-105-8276,Race the Sun,Drawing of Favorite Character,$71.75,false
+187,915-479-8008,Student Bodies,Plushie of OC,$88.63,true
+188,416-513-4384,Father Takes a Wife,Plushie of Favorite Character,$60.47,false
+189,884-293-8176,Gore Vidal: The United States of Amnesia,Drawing of an OC,$57.36,false
+190,475-959-4390,Fist of the North Star,Drawing of Favorite Character,$61.46,true
+191,381-507-5253,"Shoes of the Fisherman, The",Plushie of OC,$88.43,false
+192,146-434-4374,Storm Catcher,Drawing of an OC,$66.61,false
+193,473-264-3716,Foreign Letters,Drawing of an OC,$96.58,true
+194,219-892-9750,Cowboy del Amor,Plushie of OC,$90.52,false
+195,450-785-6959,Reel Bad Arabs: How Hollywood Vilifies a People,Drawing of an OC,$59.51,false
+196,281-118-3699,Come September,Plushie of Favorite Character,$71.43,true
+197,169-827-7576,Basara: Princess Goh,Drawing of an OC,$50.20,false
+198,593-504-4659,Jeremy,Drawing of Favorite Character,$53.18,true
+199,320-939-0745,"Human Behavior Experiments, The",Drawing of an OC,$55.31,false
+200,332-699-8987,"Fine Pair, A (Ruba al prossimo tuo)",Plushie of Favorite Character,$72.23,true
+201,174-693-9012,Jönssonligan & den svarta diamanten,Plushie of Favorite Character,$59.83,true
+202,224-911-0341,What Lies Beneath,Drawing of an OC,$94.28,false
+203,684-912-1272,Magic Hunter (Büvös vadász),Drawing of an OC,$73.01,false
+204,386-246-8457,Citizen Dog (Mah nakorn),Drawing of Favorite Character,$78.70,false
+205,676-751-4297,Slumber Party Massacre III,Plushie of Favorite Character,$65.98,true
+206,804-411-9169,Far From Home: The Adventures of Yellow Dog,Drawing of Favorite Character,$81.95,true
+207,250-386-8264,"Wanderers, The",Drawing of Favorite Character,$66.83,true
+208,261-180-7005,Four Heads Are Better Than One (Un homme de tête),Plushie of Favorite Character,$54.10,true
+209,399-674-2749,"Tale of Two Sisters, A (Janghwa, Hongryeon)",Drawing of an OC,$53.68,false
+210,451-968-0824,Dirty Work,Drawing of an OC,$59.43,true
+211,823-882-0416,"Gospel of John, The",Drawing of an OC,$91.69,true
+212,566-349-2907,Step Up 2 the Streets,Drawing of an OC,$72.94,false
+213,296-186-1390,"Love of Siam, The (Rak haeng Siam)",Drawing of Favorite Character,$79.52,true
+214,590-848-1432,Tell Me Something (Telmisseomding),Plushie of OC,$50.44,false
+215,747-116-0269,Boris and Natasha,Plushie of Favorite Character,$62.20,false
+216,867-855-1989,My Father and My Son (Babam ve oglum),Plushie of OC,$64.83,true
+217,378-149-0708,"Only Son, The (Hitori musuko)",Drawing of an OC,$87.21,true
+218,563-766-5198,Back Stage,Plushie of Favorite Character,$51.40,false
+219,848-196-6745,"Mummy's Curse, The",Drawing of an OC,$51.41,false
+220,838-967-8258,"Blackout, The",Drawing of an OC,$56.07,false
+221,361-366-3765,Power Play,Plushie of OC,$74.01,true
+222,853-369-4817,Long Night's Journey Into Day,Plushie of Favorite Character,$72.37,false
+223,900-594-4603,"Code, The (Mentale, La)",Drawing of Favorite Character,$80.69,false
+224,373-882-8631,Billion Dollar Brain,Plushie of Favorite Character,$98.50,false
+225,759-391-9589,My Sucky Teen Romance,Drawing of Favorite Character,$73.55,true
+226,850-924-1964,The Hire: Beat the Devil,Drawing of an OC,$51.07,true
+227,259-284-6416,Tyler Perry's Madea's Family Reunion,Drawing of Favorite Character,$99.70,false
+228,721-890-8145,Cousins in Love (a.k.a. Tender Cousins) (Tendres Cousines),Plushie of Favorite Character,$75.73,true
+229,430-102-8367,"Black Cauldron, The",Drawing of an OC,$76.20,false
+230,948-715-0258,Charlie Chan in Paris,Plushie of Favorite Character,$76.89,false
+231,181-799-7493,Dragon Age: Redemption,Drawing of Favorite Character,$69.41,false
+232,960-243-5344,"Marva Collins Story, The",Plushie of Favorite Character,$86.45,false
+233,524-754-6093,In the Shadow of the Machine,Drawing of an OC,$67.17,false
+234,965-430-3926,American Reunion (American Pie 4),Drawing of an OC,$78.45,false
+235,344-444-9061,She Wouldn't Say Yes,Drawing of Favorite Character,$83.30,false
+236,531-802-3660,Drömkåken,Plushie of OC,$76.89,true
+237,648-791-2304,"Live and Become (Va, vis et deviens)",Drawing of an OC,$56.26,false
+238,683-117-7879,Honor Among Lovers,Drawing of Favorite Character,$61.16,true
+239,814-589-6723,"Adjuster, The",Drawing of Favorite Character,$84.04,true
+240,620-205-0115,Fate (Yazgi),Drawing of an OC,$56.98,false
+241,109-402-7105,Viy,Drawing of Favorite Character,$53.26,true
+242,718-195-8016,"Love Movie, The (Rakkauselokuva)",Plushie of OC,$72.83,true
+243,287-806-9046,Man of Tai Chi,Plushie of Favorite Character,$50.84,true
+244,404-982-3739,"Killing of Sister George, The",Drawing of Favorite Character,$81.17,true
+245,526-373-5010,Hadewijch,Plushie of Favorite Character,$61.19,true
+246,619-744-3606,Chinaman (Kinamand),Plushie of OC,$96.23,false
+247,286-510-6071,8 Women,Drawing of Favorite Character,$85.73,false
+248,310-934-2243,Krull,Drawing of Favorite Character,$58.26,false
+249,251-696-4061,Beverly Hills Ninja,Plushie of Favorite Character,$82.74,false
+250,531-976-2644,Midnight Madness,Plushie of Favorite Character,$68.96,true
+251,560-908-4838,"Shaggy D.A., The",Drawing of Favorite Character,$84.62,true
+252,611-251-0113,Conman (Du Xia 1999),Plushie of OC,$79.98,true
+253,137-317-8737,Cameron's Closet,Plushie of OC,$62.25,true
+254,423-496-9549,Ten Violent Women,Plushie of Favorite Character,$51.71,false
+255,681-169-6564,Valdez Is Coming,Drawing of Favorite Character,$66.39,false
+256,837-780-2057,Ticker,Plushie of Favorite Character,$61.66,true
+257,143-146-2235,Chop Shop,Drawing of Favorite Character,$93.34,false
+258,948-336-7380,10 Mountains 10 Years,Drawing of Favorite Character,$72.97,false
+259,406-165-1226,Gallipoli,Plushie of Favorite Character,$93.06,false
+260,864-859-4359,Stranger Than Paradise,Plushie of Favorite Character,$60.76,false
+261,345-649-6647,Sparrow (a.k.a. Cultured Bird) (Man jeuk),Drawing of Favorite Character,$85.69,false
+262,397-252-2379,"Kiss Me, Stupid",Plushie of OC,$56.11,false
+263,461-404-5534,Komodo,Drawing of an OC,$67.83,true
+264,455-257-3859,Apt Pupil,Plushie of Favorite Character,$97.76,true
+265,829-495-0002,Fade to Black,Plushie of Favorite Character,$73.27,true
+266,151-699-2399,Five Graves to Cairo,Plushie of Favorite Character,$91.92,true
+267,791-941-1892,"Girlfriend Experience, The",Plushie of OC,$70.97,false
+268,433-396-7702,U Turn,Plushie of Favorite Character,$79.12,true
+269,973-952-0995,"Babe, The",Drawing of an OC,$79.24,true
+270,470-568-8999,Surf Ninjas,Plushie of Favorite Character,$69.88,true
+271,959-276-2104,Rhyme & Reason,Drawing of Favorite Character,$52.50,true
+272,365-446-9588,Happiness Never Comes Alone (Un bonheur n'arrive jamais seul),Plushie of OC,$69.90,false
+273,732-575-0300,Incubus,Drawing of Favorite Character,$91.68,false
+274,273-253-2086,Up!,Drawing of Favorite Character,$63.47,true
+275,518-265-1136,"Game of Their Lives, The",Plushie of Favorite Character,$80.09,true
+276,370-507-7699,Sushi Girl,Drawing of an OC,$89.95,true
+277,201-573-3448,Love and Other Troubles,Drawing of an OC,$67.74,true
+278,205-749-9540,"Lonely Place to Die, A",Plushie of OC,$56.11,false
+279,351-260-6579,Pilate and Others (Pilatus und andere - Ein Film für Karfreitag) ,Drawing of Favorite Character,$67.38,true
+280,803-795-6029,Altered,Plushie of OC,$60.66,false
+281,886-708-5280,"Patsy, The",Drawing of Favorite Character,$94.53,true
+282,282-816-0421,"Idle Class, The",Drawing of Favorite Character,$64.91,false
+283,838-622-6422,Go Now,Plushie of OC,$89.49,false
+284,840-820-1515,"Dark Side of the Sun, The",Plushie of OC,$74.42,true
+285,384-227-7691,Dead of the Nite,Drawing of an OC,$87.34,false
+286,627-786-5570,Vengeance Valley,Plushie of Favorite Character,$89.50,false
+287,985-470-5649,"Perez Family, The",Drawing of Favorite Character,$95.33,false
+288,703-997-3464,My Best Friend's Wife,Plushie of OC,$57.16,false
+289,443-552-9428,Rendition,Plushie of OC,$93.74,true
+290,343-540-6250,"Ballad of Jack and Rose, The",Plushie of OC,$92.63,false
+291,540-382-4883,Germinal,Drawing of an OC,$85.11,false
+292,849-205-5798,Glowing Stars,Plushie of OC,$87.74,false
+293,418-954-9570,G Men,Plushie of OC,$58.15,true
+294,624-912-1309,Unforgotten: Twenty-Five Years After Willowbrook,Drawing of Favorite Character,$71.72,true
+295,376-814-4603,Detachment,Plushie of OC,$99.74,false
+296,615-792-0841,"River Wild, The",Drawing of an OC,$99.22,true
+297,107-837-3594,When Trumpets Fade,Plushie of OC,$93.15,true
+298,446-564-9186,Country,Plushie of Favorite Character,$66.31,false
+299,690-373-9256,17 Again,Plushie of OC,$66.49,true
+300,959-301-7207,"Getaway, The",Drawing of Favorite Character,$99.15,false
+301,770-526-9020,"Talk of the Town, The",Drawing of an OC,$99.87,true
+302,251-175-7667,Madison,Plushie of Favorite Character,$52.66,true
+303,271-609-4661,The King and Four Queens,Plushie of Favorite Character,$96.29,false
+304,668-315-0387,Love Field,Drawing of an OC,$93.46,true
+305,556-543-3503,Snow Falling on Cedars,Drawing of an OC,$68.85,true
+306,929-661-7704,The Auction,Plushie of Favorite Character,$58.13,true
+307,502-459-9357,"Self-Made Hero, A (Un héros très discret)",Drawing of Favorite Character,$79.47,false
+308,774-605-9397,Nights and Weekends,Drawing of Favorite Character,$79.66,false
+309,318-767-2994,Wing Commander,Plushie of OC,$51.14,false
+310,829-382-9952,Honeysuckle Rose (a.k.a. On the Road Again),Drawing of Favorite Character,$59.46,false
+311,504-970-6628,Inside the Twin Towers,Drawing of Favorite Character,$64.15,false
+312,127-402-4972,RiP: A Remix Manifesto,Plushie of Favorite Character,$99.60,false
+313,895-209-7728,"Celluloid Closet, The",Plushie of Favorite Character,$89.93,false
+314,502-510-7216,"Woodmans, The",Drawing of an OC,$94.67,false
+315,843-443-2292,Imaginary Crimes,Plushie of OC,$69.36,true
+316,372-260-7832,All Good Things,Drawing of an OC,$74.79,false
+317,519-586-4055,Beasts of the Southern Wild,Drawing of Favorite Character,$79.74,false
+318,382-143-8249,Jurassic Park III,Plushie of OC,$62.48,false
+319,312-345-7419,Beverly Hills Cop II,Drawing of Favorite Character,$55.03,false
+320,561-679-3552,"Ascent of Money, The",Drawing of Favorite Character,$75.65,true
+321,503-636-6447,Run of the Arrow,Plushie of Favorite Character,$72.33,true
+322,710-217-8173,"Twilight Samurai, The (Tasogare Seibei)",Plushie of Favorite Character,$54.50,true
+323,587-170-4722,Saving Grace,Drawing of an OC,$63.56,true
+324,159-357-0646,Violet Tendencies,Drawing of an OC,$72.95,false
+325,324-465-8712,"Short Film About Love, A (Krótki film o milosci)",Drawing of Favorite Character,$72.33,true
+326,208-358-2503,I Married a Monster from Outer Space,Drawing of an OC,$54.64,false
+327,710-692-8334,Millhaven,Plushie of OC,$80.63,false
+328,545-176-9085,Spread,Plushie of Favorite Character,$75.41,false
+329,161-909-4268,"Tingler, The",Plushie of OC,$79.29,true
+330,313-345-7775,Raffles,Plushie of Favorite Character,$68.81,false
+331,344-718-9660,Gilles' Wife (La femme de Gilles),Drawing of an OC,$70.82,false
+332,383-961-1014,Hands Off the Loot (Touchez pas au grisbi),Drawing of Favorite Character,$90.66,false
+333,901-843-0851,Falling Angels,Drawing of an OC,$62.00,false
+334,266-928-6952,"Tale of Sweeney Todd, The",Plushie of OC,$50.41,false
+335,247-439-9383,Singapore Sling (Singapore sling: O anthropos pou agapise ena ptoma),Drawing of Favorite Character,$75.24,true
+336,407-221-2974,Hangar 18,Drawing of Favorite Character,$80.60,false
+337,220-776-0987,Flu,Drawing of an OC,$53.46,false
+338,823-212-5300,Hostel: Part III ,Drawing of Favorite Character,$61.30,false
+339,533-194-2069,I Love Trouble,Drawing of an OC,$75.31,false
+340,339-256-8211,"Grandfather, The (Abuelo, El)",Drawing of Favorite Character,$78.37,true
+341,121-381-7867,"Ghost Goes West, The",Plushie of Favorite Character,$66.98,false
+342,753-923-5996,If I Had a Million,Plushie of OC,$66.35,true
+343,768-368-3349,Alien Raiders,Plushie of Favorite Character,$85.69,false
+344,426-616-7074,"Rose Seller, The (La vendedora de rosas)",Plushie of Favorite Character,$64.34,false
+345,343-891-9583,Dangerous Minds,Drawing of an OC,$53.72,false
+346,647-185-1282,Sleuth,Plushie of OC,$55.26,true
+347,907-406-3722,"27 Club, The",Drawing of an OC,$98.18,true
+348,775-779-1452,Friends and Family,Drawing of Favorite Character,$78.04,false
+349,231-644-4132,Speechless,Drawing of an OC,$87.00,false
+350,292-739-2181,Citizen Ruth,Drawing of an OC,$86.67,true
+351,260-749-8510,Ice Station Zebra,Drawing of Favorite Character,$70.76,true
+352,184-448-7118,Cry_Wolf (a.k.a. Cry Wolf),Plushie of OC,$55.58,true
+353,324-104-5302,"Tale of Zatoichi, The (Zatôichi monogatari) (Zatôichi 1)",Drawing of an OC,$65.89,true
+354,779-571-7437,"Cottage, The",Plushie of OC,$97.00,false
+355,738-507-3492,"Hit, The",Plushie of Favorite Character,$69.91,false
+356,379-899-7077,Doughboys,Drawing of an OC,$53.05,false
+357,811-234-5222,Little Miss Sunshine,Drawing of Favorite Character,$67.54,true
+358,359-866-7703,Resurrection,Drawing of Favorite Character,$86.34,true
+359,500-696-4796,White Fang,Drawing of Favorite Character,$59.70,true
+360,253-866-6445,"Private Lives of Pippa Lee, The",Drawing of an OC,$94.94,true
+361,186-342-7878,"Children of Huang Shi, The",Plushie of Favorite Character,$59.29,true
+362,770-589-7301,Soldier's Girl,Drawing of an OC,$79.22,false
+363,101-560-1982,Damage (Fatale),Drawing of Favorite Character,$70.48,true
+364,641-661-8127,Mabel at the Wheel,Plushie of Favorite Character,$87.54,true
+365,396-204-0937,Fly Away,Drawing of an OC,$66.12,false
+366,959-512-3591,Bad Luck Love,Plushie of Favorite Character,$79.76,false
+367,389-164-5052,Terraferma,Drawing of an OC,$82.49,false
+368,916-171-5369,Métastases,Drawing of Favorite Character,$80.59,false
+369,474-800-9483,Flowing (Nagareru),Drawing of Favorite Character,$99.28,true
+370,980-596-7128,"Karate Kid, The",Plushie of Favorite Character,$77.99,true
+371,635-141-7323,"American Werewolf in Paris, An",Plushie of OC,$84.85,false
+372,118-162-8764,The Blood of Fu Manchu,Drawing of Favorite Character,$54.75,true
+373,742-271-7685,Son of a Gun,Drawing of an OC,$83.59,false
+374,451-472-5963,Boogie Woogie,Drawing of Favorite Character,$91.42,false
+375,637-171-1126,"Wild Wild West Revisited, The",Drawing of an OC,$92.57,false
+376,384-474-3414,Meteor,Plushie of OC,$87.13,false
+377,478-518-3617,Perched on a Tree (Sur un arbre perché),Drawing of Favorite Character,$72.33,false
+378,156-593-9967,Elvis and Anabelle,Plushie of Favorite Character,$50.81,true
+379,513-987-8215,Vendetta,Plushie of OC,$76.94,false
+380,904-922-7097,Girls About Town,Plushie of OC,$75.10,true
+381,741-673-7281,Alien,Plushie of OC,$69.00,false
+382,905-418-2438,"I, Frankenstein",Drawing of Favorite Character,$66.23,true
+383,394-891-9202,Short Time,Drawing of Favorite Character,$71.96,true
+384,739-271-5201,"Vertical Ray of the Sun, The (Mua he chieu thang dung)",Plushie of OC,$57.93,true
+385,483-193-1762,Cop Out,Drawing of Favorite Character,$54.82,true
+386,990-204-4962,Barbershop,Plushie of OC,$60.15,false
+387,634-227-1541,"Descent, The",Drawing of Favorite Character,$80.71,true
+388,982-443-3721,Thampu,Plushie of OC,$73.12,false
+389,159-242-8692,Brown of Harvard,Plushie of OC,$87.63,false
+390,443-319-3282,Hellraiser: Deader,Drawing of an OC,$87.68,false
+391,897-874-0027,Killer Elite,Plushie of Favorite Character,$58.86,true
+392,730-948-2401,Allegro,Drawing of an OC,$76.26,false
+393,398-519-0966,Extraordinary Measures,Plushie of OC,$97.74,false
+394,320-116-4944,Inn of Evil (Inochi bô ni furô),Plushie of OC,$85.21,false
+395,923-169-4227,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El)",Drawing of an OC,$88.44,false
+396,591-593-3991,On a marché sur Bangkok,Plushie of Favorite Character,$56.61,true
+397,971-567-1940,Made in Jamaica,Plushie of OC,$64.41,false
+398,185-754-1522,"Heroic Ones, The (Shi san tai bao)",Plushie of Favorite Character,$63.52,false
+399,405-244-3178,"Four-Faced Liar, The",Drawing of an OC,$97.16,true
+400,588-904-0298,"Agony and the Ecstasy, The",Drawing of Favorite Character,$68.94,true
+401,901-133-3308,Dunston Checks In,Drawing of Favorite Character,$94.67,false
+402,373-750-9518,Yellow Sky,Drawing of an OC,$62.32,false
+403,282-989-1657,In Praise of Older Women,Drawing of an OC,$50.75,false
+404,705-512-5875,Free Enterprise,Drawing of Favorite Character,$50.04,false
+405,935-277-2491,Boogie Nights,Drawing of an OC,$70.66,true
+406,481-318-8551,Kimberly,Drawing of an OC,$74.70,true
+407,163-966-9309,Catastroika,Drawing of an OC,$52.77,true
+408,542-365-4065,"Texas Chainsaw Massacre 2, The",Plushie of Favorite Character,$51.30,false
+409,856-837-3605,Police,Plushie of Favorite Character,$84.52,false
+410,779-152-7581,"Kingdom II, The (Riget II)",Plushie of Favorite Character,$88.64,false
+411,413-283-7693,The D.I.,Plushie of Favorite Character,$68.96,true
+412,977-738-2482,Siberian Education (Educazione siberiana),Drawing of Favorite Character,$79.38,false
+413,380-992-9526,Mann tut was Mann kann,Plushie of OC,$57.14,true
+414,584-823-3592,"Undertaker and His Pals, The",Drawing of an OC,$63.40,false
+415,880-389-5605,"Cat in Paris, A (Une vie de chat)",Drawing of an OC,$76.64,true
+416,390-147-1697,Alan Partridge: Alpha Papa,Plushie of OC,$92.91,false
+417,714-231-8322,"3 Rooms of Melancholia, The (Melancholian 3 huonetta)",Drawing of Favorite Character,$93.33,true
+418,692-595-2249,Chantilly Lace,Drawing of an OC,$90.10,false
+419,538-328-5344,Burlesque,Drawing of an OC,$65.67,false
+420,296-420-5340,Mafioso,Drawing of an OC,$89.83,false
+421,811-581-4764,Once a Thief (Zong heng si hai),Drawing of an OC,$77.84,false
+422,465-559-7211,North to Alaska,Plushie of Favorite Character,$93.66,false
+423,986-772-4600,The Mystery of the Leaping Fish,Drawing of an OC,$83.71,true
+424,667-751-3564,Clean Slate,Plushie of Favorite Character,$52.02,true
+425,996-296-4016,Wild River,Plushie of Favorite Character,$73.75,true
+426,471-915-3869,The War,Plushie of OC,$87.92,false
+427,967-621-3058,Lord of War,Plushie of OC,$56.03,true
+428,763-128-9788,Going Overboard,Drawing of Favorite Character,$94.87,false
+429,988-907-6032,"First $20 Million Is Always the Hardest, The",Plushie of Favorite Character,$86.66,false
+430,155-210-2057,Heldorado,Plushie of OC,$73.36,false
+431,512-293-4717,Fly Away,Drawing of Favorite Character,$85.98,false
+432,886-307-6984,Undertow (Contracorriente),Drawing of an OC,$74.38,false
+433,771-308-7416,"Common Wealth (Comunidad, La)",Drawing of an OC,$55.39,false
+434,363-594-6634,Police Academy 2: Their First Assignment,Plushie of OC,$86.79,true
+435,195-707-4408,Rogue,Drawing of an OC,$67.23,false
+436,155-954-9622,Dinotopia,Drawing of Favorite Character,$51.94,false
+437,322-518-5928,Lola and Billy the Kid (Lola + Bilidikid),Plushie of Favorite Character,$87.99,false
+438,669-860-2847,Levitated Mass,Plushie of Favorite Character,$58.08,true
+439,643-845-4736,Promise Her Anything,Drawing of an OC,$65.93,true
+440,302-431-1578,Throw Down (Yau doh lung fu bong),Drawing of Favorite Character,$60.51,false
+441,574-483-7874,What Men Talk About,Drawing of Favorite Character,$81.21,true
+442,105-245-8987,Soulless,Plushie of Favorite Character,$86.13,true
+443,492-275-2712,"Winning Season, The",Drawing of Favorite Character,$55.82,false
+444,729-453-8494,The Valley of Gwangi,Drawing of Favorite Character,$82.32,true
+445,673-568-5064,"Unknown Woman, The (Tuntematon emäntä)",Plushie of OC,$63.98,false
+446,269-355-4077,"Sea Hawk, The",Drawing of an OC,$79.35,false
+447,440-654-2676,Sunflower (Xiang ri kui),Drawing of Favorite Character,$50.17,true
+448,892-583-0358,Hellraiser: Hellseeker,Plushie of OC,$81.22,true
+449,474-948-9934,Kill Me Later,Drawing of an OC,$62.45,true
+450,484-323-8368,Wild Guitar,Drawing of Favorite Character,$86.44,false
+451,106-717-8923,Belle and Sebastien (Belle et Sébastien),Drawing of an OC,$66.08,true
+452,561-366-7495,Fun is Beautiful,Plushie of OC,$71.86,false
+453,993-816-7845,Bloodfist,Drawing of an OC,$68.67,false
+454,133-734-8143,Anastasia,Plushie of Favorite Character,$69.45,false
+455,240-878-5092,Pi,Plushie of Favorite Character,$89.77,false
+456,518-885-0257,Bicentennial Man,Plushie of Favorite Character,$62.87,false
+457,227-814-0913,"Babadook, The",Plushie of Favorite Character,$85.39,false
+458,214-632-0618,Five Card Stud (a.k.a. 5 Card Stud),Plushie of Favorite Character,$86.64,true
+459,688-308-0277,Sparrows,Plushie of Favorite Character,$57.85,false
+460,894-868-5545,Aliisa,Drawing of Favorite Character,$68.05,false
+461,218-212-6759,Switching Channels,Drawing of Favorite Character,$88.84,true
+462,689-501-6926,Designing Woman,Drawing of an OC,$54.92,false
+463,536-250-8860,"Bridge at Remagen, The",Drawing of an OC,$80.10,false
+464,921-577-7569,"Same Time, Next Year",Plushie of OC,$71.52,true
+465,544-828-4790,Life According to Sam,Plushie of Favorite Character,$86.96,false
+466,890-114-6139,When Will I Be Loved,Plushie of Favorite Character,$68.56,false
+467,788-921-6395,Dirty Money (Un flic),Drawing of an OC,$74.49,false
+468,258-207-9586,"Temptation of St. Tony, The (Püha Tõnu kiusamine)",Drawing of Favorite Character,$70.66,true
+469,241-710-7631,Taste the Blood of Dracula,Plushie of Favorite Character,$81.09,true
+470,236-514-2171,"Summer by the River, A (Kuningasjätkä)",Plushie of OC,$78.70,true
+471,935-777-8237,"Pied Piper, The (Pied Piper of Hamelin, The)",Plushie of Favorite Character,$91.01,false
+472,623-673-8034,Sniper 2,Plushie of Favorite Character,$86.16,false
+473,489-744-2701,Gaslight,Drawing of an OC,$89.50,true
+474,276-166-4489,Tie Xi Qu: West of the Tracks (Tiexi qu),Plushie of Favorite Character,$74.55,true
+475,638-509-6578,Vamps,Plushie of OC,$99.26,false
+476,453-583-5470,Mimic 2,Drawing of an OC,$76.01,true
+477,597-675-6933,"Phone Box, The (Cabina, La)",Plushie of OC,$58.74,true
+478,837-924-7411,Very Ordinary Couple (Yeonaeui Wondo),Plushie of Favorite Character,$84.73,true
+479,403-240-9950,"Prince of Pennsylvania, The",Plushie of Favorite Character,$57.04,true
+480,837-123-3596,One Chance,Plushie of Favorite Character,$54.90,true
+481,612-424-2316,Marked Woman,Plushie of Favorite Character,$79.56,true
+482,874-384-6843,Lara Croft: Tomb Raider,Drawing of an OC,$62.26,false
+483,270-291-1779,Copenhagen,Drawing of an OC,$97.05,false
+484,316-954-7833,Brooklyn Bridge,Plushie of Favorite Character,$95.60,false
+485,685-164-7706,The Man Who Loved Yngve,Drawing of Favorite Character,$82.55,false
+486,816-350-7617,18 Fingers of Death!,Drawing of an OC,$96.45,true
+487,529-907-6085,"Charlie Brown Christmas, A",Plushie of Favorite Character,$69.01,false
+488,893-727-7561,Manhattan Baby,Drawing of an OC,$82.85,false
+489,267-924-8981,Tin Toy,Plushie of Favorite Character,$97.21,true
+490,290-826-8615,Brothers at War,Plushie of OC,$80.80,false
+491,594-798-3990,Addicted to Plastic,Drawing of an OC,$75.38,true
+492,417-395-3125,Jury Duty,Drawing of Favorite Character,$97.05,false
+493,855-171-3275,Call Me Savage,Plushie of OC,$80.72,true
+494,316-470-8753,At Midnight I'll Take Your Soul (À Meia-Noite Levarei Sua Alma),Drawing of an OC,$57.07,false
+495,214-601-2653,Wilder Napalm,Plushie of OC,$87.59,false
+496,460-703-2903,Flubber,Plushie of OC,$55.39,false
+497,934-874-1870,For the Love of Benji,Drawing of Favorite Character,$71.92,true
+498,862-267-0229,War and Peace,Drawing of Favorite Character,$69.87,false
+499,483-677-0025,Sometimes a Great Notion,Drawing of Favorite Character,$75.08,false
+500,971-543-2075,Malèna,Drawing of Favorite Character,$62.64,false
+501,611-982-5099,Mistaken for Strangers,Plushie of Favorite Character,$79.42,true
+502,699-750-9544,Beautiful Darling,Plushie of Favorite Character,$68.80,true
+503,734-750-2388,Skyline,Plushie of Favorite Character,$89.22,true
+504,577-224-2755,"Bridges of Madison County, The",Plushie of OC,$81.38,false
+505,527-379-0017,This Land Is Mine,Plushie of OC,$56.62,true
+506,935-381-3580,Lake of Fire,Drawing of an OC,$93.51,false
+507,622-340-2964,Grace,Drawing of Favorite Character,$76.01,true
+508,173-521-8258,"Naked Man, The",Drawing of an OC,$95.71,true
+509,255-447-3004,House of Frankenstein,Drawing of an OC,$80.06,true
+510,744-984-0105,Ponette,Plushie of OC,$79.80,true
+511,762-924-0642,Meilleur espoir féminin,Plushie of Favorite Character,$65.25,false
+512,595-830-3505,9/11,Drawing of Favorite Character,$95.57,true
+513,885-902-8288,"Bird of the Air, A (Loop, The)",Drawing of Favorite Character,$64.90,true
+514,411-154-6824,5 Broken Cameras,Drawing of an OC,$62.76,true
+515,594-732-4019,Kleines Arschloch - Der Film,Drawing of Favorite Character,$88.14,true
+516,781-415-5019,"Little Mermaid 2: Return to the Sea, The",Plushie of OC,$66.16,false
+517,117-306-9857,Four Eyed Monsters,Drawing of Favorite Character,$96.42,false
+518,544-905-2652,Mary and Martha,Plushie of Favorite Character,$87.02,true
+519,701-488-4765,Savages,Plushie of Favorite Character,$99.45,false
+520,237-835-7656,"Chance of a Lifetime, The",Plushie of Favorite Character,$95.27,false
+521,373-920-4273,Aaltra,Drawing of Favorite Character,$90.08,false
+522,690-555-9794,Weekend (a.k.a. Le Week-end) (Week End),Plushie of OC,$62.40,false
+523,557-950-2925,Kids in the Hall: Brain Candy,Plushie of Favorite Character,$69.31,false
+524,185-149-5201,Savage Streets,Drawing of an OC,$89.91,true
+525,695-853-6358,Sliver,Plushie of OC,$73.72,false
+526,713-148-2280,Gun Crazy (a.k.a. Deadly Is the Female),Drawing of an OC,$99.85,true
+527,758-764-7064,Citizen Cohn,Plushie of OC,$89.99,false
+528,999-575-1052,Tyler Perry's A Madea Christmas,Plushie of Favorite Character,$92.48,true
+529,641-290-2681,Eddie Murphy Delirious,Plushie of OC,$64.23,false
+530,609-419-6285,Salmon Fishing in the Yemen,Drawing of an OC,$96.37,true
+531,549-690-4402,Bad Boy (Dawg),Plushie of OC,$51.91,true
+532,676-702-2477,Surfwise,Plushie of OC,$60.18,false
+533,268-965-7379,Step Into Liquid,Drawing of an OC,$51.30,true
+534,911-293-6338,Independents,Drawing of Favorite Character,$68.29,false
+535,732-700-2322,Jackboots on Whitehall,Plushie of OC,$52.69,false
+536,537-302-2226,StreetDance 3D,Plushie of OC,$53.94,true
+537,450-178-1851,Dr. T and the Women,Drawing of an OC,$56.34,false
+538,406-446-0002,Scary Movie 5 (Scary MoVie),Drawing of Favorite Character,$62.46,false
+539,747-568-9707,Once Upon a Time in the West (C'era una volta il West),Plushie of Favorite Character,$55.15,true
+540,240-105-3629,"Lucky Ones, The",Drawing of Favorite Character,$55.12,true
+541,157-662-2483,"Pick-up Artist, The",Plushie of OC,$64.81,true
+542,182-796-0143,"Devil and Daniel Webster, The (All That Money Can Buy)",Plushie of Favorite Character,$50.94,true
+543,993-657-3593,Friendly Persuasion,Plushie of Favorite Character,$89.63,false
+544,801-481-8267,Nick of Time,Drawing of Favorite Character,$59.85,true
+545,520-206-7975,Backbeat,Plushie of OC,$80.82,false
+546,277-526-7441,Girlhood,Plushie of OC,$72.33,false
+547,731-941-6474,Super,Plushie of Favorite Character,$66.17,true
+548,255-625-9497,Shrek 2,Drawing of Favorite Character,$98.97,true
+549,234-198-4440,Chad Hanna,Plushie of Favorite Character,$87.89,true
+550,701-131-0863,Legion,Plushie of Favorite Character,$89.69,false
+551,693-825-4217,"Story of Mankind, The",Plushie of Favorite Character,$81.93,false
+552,740-383-6029,Soloalbum,Plushie of Favorite Character,$57.44,true
+553,712-638-0269,Company Man,Plushie of OC,$72.26,true
+554,297-686-4301,Man of Tai Chi,Drawing of Favorite Character,$63.95,false
+555,482-910-1130,Milarepa,Plushie of Favorite Character,$90.54,false
+556,536-537-9553,"Night Listener, The",Plushie of OC,$51.14,false
+557,759-387-0464,The ABCs of Death 2,Plushie of OC,$91.97,true
+558,238-779-5590,Widows' Peak,Drawing of an OC,$87.47,true
+559,154-795-1557,Villa Rides!,Drawing of Favorite Character,$75.18,false
+560,391-859-1016,Any Which Way You Can,Drawing of Favorite Character,$84.81,false
+561,371-419-4314,Dracula (Bram Stoker's Dracula),Drawing of Favorite Character,$66.64,true
+562,709-432-8571,Soundbreaker ,Plushie of OC,$84.75,true
+563,116-290-5554,Medicine Man,Plushie of OC,$66.09,false
+564,247-934-8995,House Party 2,Drawing of Favorite Character,$61.34,false
+565,735-722-4170,Billy's Holiday,Drawing of Favorite Character,$92.57,false
+566,454-502-2254,Big Bad Mama,Drawing of Favorite Character,$76.59,true
+567,203-772-3807,"Deadly Companions, The",Plushie of Favorite Character,$77.70,true
+568,897-404-9892,BASEketball,Plushie of Favorite Character,$54.87,false
+569,509-391-7427,"Hit, The",Drawing of Favorite Character,$85.44,false
+570,804-265-7524,"Synecdoche, New York",Drawing of an OC,$65.51,false
+571,584-232-2562,King of the Zombies,Plushie of Favorite Character,$97.56,false
+572,464-707-9617,Pillow Talk,Plushie of OC,$85.12,true
+573,953-727-4593,Quest for Camelot,Drawing of an OC,$78.31,true
+574,942-970-7595,Four more years (Fyra år till),Plushie of Favorite Character,$63.39,true
+575,434-383-0343,Entre ses mains,Plushie of OC,$53.00,true
+576,752-436-2774,"Man with Bogart's Face, The",Plushie of OC,$89.89,true
+577,607-185-5982,What Alice Found,Plushie of OC,$96.16,true
+578,848-108-4140,Project Grizzly,Plushie of Favorite Character,$98.77,false
+579,792-597-5476,I Am Michael,Plushie of Favorite Character,$66.29,false
+580,615-906-0807,Perfumed Nightmare,Drawing of Favorite Character,$94.64,false
+581,349-535-1401,"Spider Baby or, The Maddest Story Ever Told (Spider Baby)",Drawing of Favorite Character,$79.49,false
+582,830-819-2819,"Buddy Holly Story, The",Drawing of Favorite Character,$98.21,false
+583,427-340-2491,Rampo (a.k.a. The Mystery of Rampo),Plushie of OC,$95.36,false
+584,845-517-5848,"Cheyenne Social Club, The",Drawing of an OC,$65.45,true
+585,875-633-0317,Divorce,Drawing of Favorite Character,$86.26,true
+586,111-653-1411,Bullets Over Broadway,Plushie of Favorite Character,$89.75,false
+587,238-670-6621,There Goes My Baby,Drawing of Favorite Character,$84.06,false
+588,194-378-5914,Islander,Plushie of OC,$74.38,true
+589,290-440-4230,Unknown White Male,Drawing of an OC,$69.04,true
+590,277-753-6911,Beauty and the Beast: The Enchanted Christmas,Plushie of Favorite Character,$53.85,true
+591,604-165-8801,Stockholm East (Stockholm Östra),Plushie of OC,$70.71,false
+592,705-254-6952,River Queen,Plushie of Favorite Character,$81.76,false
+593,140-376-1824,Encounters at the End of the World,Plushie of Favorite Character,$89.08,false
+594,463-879-3223,National Velvet,Drawing of an OC,$98.02,true
+595,780-508-4780,Batman Beyond: Return of the Joker,Drawing of an OC,$57.65,true
+596,830-444-7703,Twenty Days Without War (Dvadtsat dney bez voyny),Drawing of Favorite Character,$86.24,true
+597,531-860-9323,Skyjacked,Drawing of Favorite Character,$72.13,false
+598,294-335-9079,Licence to Kill,Plushie of OC,$94.63,false
+599,773-113-7673,I'll Be Seeing You,Drawing of Favorite Character,$73.94,false
+600,828-709-0586,"Bucket Of Blood, A",Plushie of OC,$79.79,false
+601,235-294-9848,Le ultime ore di una vergine,Drawing of an OC,$70.09,true
+602,927-826-4384,"Toxic Avenger Part III: The Last Temptation of Toxie, The",Plushie of Favorite Character,$69.58,false
+603,934-845-5693,What Planet Are You From?,Drawing of Favorite Character,$85.97,false
+604,650-742-1741,"Hole, The (Dong)",Plushie of Favorite Character,$82.03,false
+605,638-976-5595,"Gang's All Here, The",Plushie of Favorite Character,$86.84,false
+606,532-559-9685,Carmen Comes Home (Karumen kokyo ni kaeru),Drawing of an OC,$57.93,true
+607,776-145-7153,"Terror, The",Drawing of an OC,$99.74,false
+608,703-376-6056,One-Eyed Jacks,Drawing of an OC,$74.54,false
+609,346-897-6769,Tuvalu,Plushie of OC,$57.29,true
+610,427-482-1695,20 Dates,Drawing of an OC,$55.35,true
+611,369-420-7263,"House Is Black, The",Plushie of OC,$51.21,true
+612,148-725-4390,Half Moon (a.k.a. Niwemang),Drawing of Favorite Character,$61.05,true
+613,706-484-6940,"Tale of Sweeney Todd, The",Drawing of Favorite Character,$94.95,false
+614,422-565-2679,"Exorcism of Emily Rose, The",Plushie of OC,$56.74,false
+615,818-355-0651,"Punisher, The",Drawing of an OC,$95.94,true
+616,957-956-2961,Fires on the Plain (Nobi),Drawing of an OC,$90.19,false
+617,668-327-0570,Revenge for Jolly!,Plushie of OC,$66.16,false
+618,251-782-0201,"Animal Kingdom, The",Drawing of an OC,$59.19,false
+619,565-577-2969,King Kong Lives,Plushie of Favorite Character,$69.69,true
+620,260-859-9517,Ill-Fated Love (Doomed Love) (Amor de Perdição),Drawing of an OC,$90.45,true
+621,712-683-8649,Terribly Happy (Frygtelig lykkelig),Plushie of OC,$64.65,true
+622,853-146-1660,Messengers 2: The Scarecrow,Plushie of OC,$64.57,false
+623,837-904-9191,Shadowlands,Drawing of Favorite Character,$68.56,true
+624,770-563-0246,Sorority Boys,Plushie of Favorite Character,$52.70,false
+625,420-701-1655,3:10 to Yuma,Plushie of OC,$62.68,false
+626,141-268-8661,Polytechnique,Drawing of an OC,$57.43,true
+627,453-978-7562,Girl Shy,Plushie of OC,$50.12,true
+628,247-401-2868,Exam,Plushie of Favorite Character,$82.02,false
+629,691-755-4143,Beethoven,Drawing of Favorite Character,$76.93,true
+630,206-744-7004,"Rookie, The",Drawing of an OC,$87.40,true
+631,238-524-7211,"Inbetweeners Movie, The",Plushie of OC,$77.36,true
+632,568-440-9775,Believe Me,Drawing of an OC,$59.14,true
+633,850-139-2156,Rehearsals for Extinct Anatomies,Drawing of Favorite Character,$81.89,true
+634,686-742-7324,Hoodwinked Too! Hood vs. Evil,Plushie of Favorite Character,$72.41,true
+635,284-638-9364,Phish: Bittersweet Motel,Drawing of an OC,$68.47,false
+636,240-912-8232,Ghostbusters (a.k.a. Ghost Busters),Drawing of Favorite Character,$60.49,false
+637,228-600-0239,Sol ,Drawing of Favorite Character,$84.89,false
+638,663-520-0654,Lan Yu,Plushie of Favorite Character,$64.40,false
+639,105-228-0467,Caught,Plushie of OC,$70.72,true
+640,387-999-9898,"Eyewitness (Janitor, The)",Plushie of OC,$51.75,true
+641,975-847-3554,Angst,Plushie of Favorite Character,$53.20,true
+642,176-518-7532,Shooting War,Plushie of OC,$94.26,false
+643,546-400-5854,Once Upon a Time in Shanghai,Drawing of an OC,$51.03,false
+644,568-538-9606,Sid and Nancy,Drawing of an OC,$97.44,false
+645,109-489-2422,Teddy Bears' Picnic,Plushie of Favorite Character,$71.72,true
+646,751-658-5669,"Hijacking Catastrophe: 9/11, Fear & the Selling of American Empire",Plushie of OC,$91.14,false
+647,600-796-9935,Assembly (Ji jie hao) ,Drawing of an OC,$78.02,true
+648,196-861-6104,Justin Bieber: Never Say Never,Plushie of OC,$94.76,true
+649,441-295-2468,Dragon Ball Z: Fusion Reborn (Doragon bôru Z 12: Fukkatsu no fyushon!! Gokû to Bejîta),Drawing of Favorite Character,$96.29,false
+650,836-601-6349,All or Nothing,Plushie of Favorite Character,$52.78,false
+651,337-528-0557,"Bûche, La",Drawing of an OC,$56.22,true
+652,977-708-8547,Star Wars Uncut: Director's Cut,Drawing of an OC,$62.62,true
+653,954-127-4431,All Is Forgiven (Tout est pardonné),Drawing of an OC,$73.86,true
+654,827-805-6989,"Boy in Blue, The",Drawing of an OC,$61.36,true
+655,171-306-1093,Mother,Plushie of Favorite Character,$77.52,true
+656,104-872-0683,Valerie and Her Week of Wonders (Valerie a týden divu),Plushie of OC,$55.94,true
+657,426-365-4347,St Trinian's 2: The Legend of Fritton's Gold,Plushie of Favorite Character,$55.68,false
+658,288-788-0448,Ambition,Drawing of an OC,$97.94,true
+659,385-124-4458,Do You Wanna Know a Secret?,Plushie of OC,$56.37,true
+660,867-152-2829,Perfume: The Story of a Murderer,Drawing of Favorite Character,$65.90,false
+661,147-348-4137,City Hall,Plushie of OC,$70.39,true
+662,773-188-0221,Jacob's Ladder,Drawing of an OC,$55.75,false
+663,353-638-8123,Pirates of the Great Salt Lake,Drawing of Favorite Character,$88.39,false
+664,299-226-7092,Venom,Drawing of Favorite Character,$62.70,true
+665,326-936-2218,Powwow Highway,Plushie of Favorite Character,$87.00,false
+666,675-818-2779,Master of the Universe,Plushie of Favorite Character,$64.56,true
+667,380-875-2499,Fire and Ice,Plushie of Favorite Character,$80.51,true
+668,736-115-2716,Battleground,Plushie of OC,$52.49,false
+669,300-631-4077,In the Park,Plushie of Favorite Character,$75.44,true
+670,315-758-5990,Family Tree,Plushie of Favorite Character,$73.23,false
+671,689-731-6834,Desert Heat (Inferno),Plushie of Favorite Character,$63.85,false
+672,862-738-2145,Gloomy Sunday (Ein Lied von Liebe und Tod),Drawing of Favorite Character,$92.61,false
+673,533-148-0177,Intentions of Murder (a.k.a. Murderous Instincts) (Akai satsui),Plushie of Favorite Character,$95.11,true
+674,242-179-0383,Rocky Balboa,Plushie of OC,$88.66,true
+675,310-344-2400,Mean Streets,Plushie of OC,$79.12,false
+676,597-738-3566,Hara-Kiri: Death of a Samurai,Plushie of Favorite Character,$81.26,true
+677,609-573-7606,Les modèles de 'Pickpocket',Plushie of OC,$53.26,true
+678,541-288-1556,"Hills Have Eyes, The",Drawing of an OC,$53.13,true
+679,402-215-8502,Super Fuzz (a.k.a. Super Snooper) (Poliziotto superpiù),Drawing of an OC,$94.23,false
+680,527-522-3514,"Thing, The",Drawing of Favorite Character,$69.92,false
+681,783-929-1393,Joan of Paris,Plushie of Favorite Character,$52.12,false
+682,110-869-5430,Skippy,Plushie of Favorite Character,$98.80,false
+683,368-159-7533,Alien from L.A.,Drawing of Favorite Character,$52.83,true
+684,434-668-9856,Spring in a Small Town (Xiao cheng zhi chun),Drawing of an OC,$69.46,true
+685,386-143-4591,Daddy Long Legs,Plushie of Favorite Character,$91.49,true
+686,223-327-6681,Open Your Eyes (Abre los ojos),Drawing of an OC,$90.72,true
+687,920-318-0581,"Arrival, The",Drawing of an OC,$54.86,true
+688,199-859-5147,In My Country (a.k.a. Country of My Skull),Plushie of Favorite Character,$52.00,false
+689,886-290-2905,Killing Me Softly,Plushie of OC,$51.33,false
+690,657-806-3774,"Presidio, The",Drawing of Favorite Character,$59.80,false
+691,567-248-0475,Rush Hour 3,Drawing of an OC,$50.85,true
+692,314-798-8398,"Sleeping Beauty, The (La belle endormie)",Drawing of Favorite Character,$88.06,true
+693,140-126-4311,I Love Your Work,Plushie of OC,$84.26,true
+694,907-152-9841,Gen 13 (a.k.a. Gen13: The Animated Movie),Plushie of Favorite Character,$68.06,true
+695,268-836-3454,Why Does Herr R. Run Amok? (Warum läuft Herr R. Amok?),Plushie of OC,$97.50,false
+696,795-313-2780,"Client, The",Plushie of Favorite Character,$62.86,false
+697,371-765-3859,"Cellar, The (Huset vid vägens ände)",Plushie of Favorite Character,$70.62,false
+698,495-386-2739,Dangerous Liaisons,Drawing of Favorite Character,$65.63,false
+699,815-887-4775,Two Women,Plushie of Favorite Character,$82.09,true
+700,601-103-2390,Lesson Plan ,Plushie of Favorite Character,$93.79,false
+701,872-682-4541,Small Cuts (Petites coupures),Drawing of an OC,$84.30,true
+702,348-178-9900,In Search of a Midnight Kiss,Drawing of Favorite Character,$57.41,false
+703,934-284-7062,Milk Money,Drawing of an OC,$80.33,true
+704,281-876-3074,On a Clear Day You Can See Forever,Plushie of Favorite Character,$89.27,true
+705,347-756-8452,The Incite Mill - 7 Day Death Game,Drawing of Favorite Character,$55.35,true
+706,543-830-1857,"Raven, The",Plushie of OC,$81.39,true
+707,398-270-4315,"Day the Earth Caught Fire, The",Plushie of Favorite Character,$74.57,true
+708,978-812-8948,Duel at Diablo,Drawing of an OC,$63.39,false
+709,106-278-1194,Backcountry,Plushie of OC,$75.57,false
+710,807-725-9525,"Last Picture Show, The",Drawing of an OC,$88.49,true
+711,431-232-6022,Dark Dungeons,Drawing of an OC,$67.87,true
+712,580-116-1697,Sinivalkoinen valhe,Plushie of OC,$61.90,true
+713,195-522-3310,Going Straight,Plushie of OC,$75.25,true
+714,661-496-9486,"Hand, The (Ruka)",Plushie of OC,$80.57,false
+715,675-940-6199,"League of Extraordinary Gentlemen, The (a.k.a. LXG)",Plushie of Favorite Character,$50.32,false
+716,436-491-0754,Bread and Chocolate (Pane e cioccolata),Drawing of Favorite Character,$94.71,true
+717,809-482-4493,Flannel Pajamas,Plushie of OC,$94.45,true
+718,971-559-7962,Horror Planet (a.k.a. Inseminoid),Plushie of Favorite Character,$76.25,true
+719,879-512-6476,WWII IN HD,Plushie of Favorite Character,$91.03,false
+720,460-222-2631,Company Man,Drawing of Favorite Character,$60.78,true
+721,843-439-6457,Fail Safe,Plushie of OC,$51.01,false
+722,762-651-7959,Dark Water (Honogurai mizu no soko kara),Plushie of Favorite Character,$84.01,true
+723,945-224-3649,Belly 2: Millionaire Boyz Club,Drawing of an OC,$77.75,false
+724,419-561-0373,Executive Suite,Plushie of OC,$78.87,true
+725,383-234-8884,Requiem,Plushie of Favorite Character,$64.21,true
+726,793-410-9835,Crush,Plushie of Favorite Character,$76.83,true
+727,950-699-7638,Mr. Woodcock,Drawing of Favorite Character,$64.83,true
+728,427-976-7768,"Situation, The",Drawing of an OC,$86.40,true
+729,790-134-8871,"Children of Noisy Village, The (a.k.a Children of Bullerby Village, The) (Alla vi barn i Bullerbyn)",Plushie of Favorite Character,$67.49,false
+730,741-768-8644,Lad: A Dog,Plushie of Favorite Character,$69.48,false
+731,915-206-4195,"Ladies Man, The",Drawing of Favorite Character,$87.02,true
+732,213-602-8757,"Perfect Candidate, A",Plushie of OC,$81.77,false
+733,100-122-8012,Willard,Drawing of an OC,$77.41,false
+734,711-183-9096,"White Shadow, The",Drawing of an OC,$97.35,true
+735,833-896-3273,Cinderfella,Plushie of Favorite Character,$85.30,false
+736,291-727-3000,This Special Friendship (Les amitiés particulières),Drawing of an OC,$96.64,true
+737,965-499-1729,Dog Days (Hundstage),Drawing of an OC,$54.04,false
+738,166-301-7004,Murder on the Orient Express,Drawing of an OC,$97.71,false
+739,493-262-3991,Bound,Plushie of OC,$74.30,false
+740,422-364-6230,"Search, The",Drawing of Favorite Character,$55.46,true
+741,274-851-6546,Critters,Drawing of an OC,$56.11,false
+742,557-421-1754,Return to Never Land,Drawing of an OC,$60.28,false
+743,857-207-6450,Salesman,Drawing of Favorite Character,$76.95,true
+744,624-110-8163,Bad Asses (Bad Ass 2),Drawing of Favorite Character,$55.37,false
+745,112-515-5634,How to Irritate People,Plushie of Favorite Character,$87.48,false
+746,648-841-0901,"Guns of Navarone, The",Plushie of OC,$65.17,true
+747,462-795-3564,National Lampoon's Lady Killers (National Lampoon's Gold Diggers),Drawing of Favorite Character,$53.26,false
+748,642-162-2515,Ziegfeld Follies,Drawing of an OC,$55.48,true
+749,964-684-7757,Generation Kill,Plushie of Favorite Character,$77.37,true
+750,109-474-0959,Shivers (They Came from Within),Plushie of OC,$97.61,true
+751,477-622-3512,Ju-on: Black Ghost,Plushie of Favorite Character,$50.21,true
+752,387-268-9882,Craig Ferguson: I'm Here To Help,Drawing of Favorite Character,$75.00,false
+753,796-413-3528,Friday Night Lights,Drawing of an OC,$69.97,true
+754,704-366-7931,Year of the Gun,Drawing of an OC,$85.56,true
+755,356-378-8519,Dedication,Plushie of OC,$98.10,false
+756,419-543-3117,Authors Anonymous,Plushie of OC,$89.42,false
+757,328-413-3261,The Case of the Curious Bride,Plushie of Favorite Character,$60.68,true
+758,179-884-5689,Variety (Varieté),Drawing of Favorite Character,$98.71,false
+759,471-385-0434,31 North 62 East,Plushie of Favorite Character,$80.65,true
+760,801-300-4282,Jackpot 2,Plushie of OC,$79.14,false
+761,262-930-0650,Spartacus,Drawing of Favorite Character,$96.89,true
+762,990-599-3418,City Hunter (Sing si lip yan),Plushie of OC,$62.33,false
+763,744-952-1595,"Quick and the Dead, The",Plushie of OC,$92.14,false
+764,251-311-1441,Midnight Bayou,Plushie of OC,$55.42,false
+765,627-292-5641,Hansel & Gretel: Witch Hunters,Drawing of Favorite Character,$92.59,false
+766,745-534-7768,"Horrible Way to Die, A ",Drawing of an OC,$86.80,false
+767,113-504-8892,Concussion,Drawing of Favorite Character,$99.34,true
+768,981-998-1320,The Trip to Bountiful,Drawing of Favorite Character,$58.16,true
+769,212-932-5895,"Wedding Song, The ",Plushie of OC,$62.00,true
+770,636-126-0051,American Sniper,Plushie of Favorite Character,$62.42,false
+771,648-989-2057,"Human Condition II, The (Ningen no joken II)",Drawing of Favorite Character,$51.43,true
+772,609-859-1911,For My Father (Sof Shavua B'Tel Aviv),Drawing of an OC,$67.17,true
+773,846-530-0423,"Worthless, The (Arvottomat)",Plushie of OC,$53.15,false
+774,152-912-8267,Assault on Wall Street ,Drawing of an OC,$51.70,false
+775,934-563-3984,From the Sky Down,Drawing of an OC,$65.41,true
+776,766-290-7630,Zeisters (Fat Guy Goes Nutzoid),Drawing of Favorite Character,$63.21,true
+777,744-966-0492,Getting Any? (Minnâ-yatteruka!),Plushie of OC,$58.41,true
+778,718-766-4694,Sugarbaby,Drawing of Favorite Character,$76.19,true
+779,859-906-4181,G.I. Joe: A Real American Hero (G.I. Joe: The MASS Device),Plushie of Favorite Character,$85.87,true
+780,618-550-0145,"Guns, Girls and Gambling",Drawing of an OC,$55.16,true
+781,258-422-9324,Stay Hungry,Drawing of Favorite Character,$68.07,false
+782,985-166-7886,"Californie, La",Drawing of an OC,$60.58,false
+783,848-208-6250,"Oh, Woe Is Me (Hélas pour moi)",Drawing of Favorite Character,$65.94,true
+784,282-157-6982,Miracle on 34th Street,Drawing of Favorite Character,$64.68,false
+785,680-365-0696,Tombs of the Blind Dead (La noche del terror ciego),Drawing of Favorite Character,$90.71,false
+786,469-495-0749,Gunless,Drawing of Favorite Character,$63.23,true
+787,387-542-2698,Gamer,Drawing of Favorite Character,$74.83,true
+788,775-857-3298,Berlin Babylon,Drawing of Favorite Character,$69.28,true
+789,585-765-8234,All of Me,Plushie of Favorite Character,$59.92,false
+790,512-320-6010,Convoy,Drawing of an OC,$69.22,false
+791,226-949-8364,No Reservations,Drawing of an OC,$99.07,true
+792,949-193-8960,Shattered,Drawing of Favorite Character,$89.08,true
+793,921-372-5258,"Border Run (Mule, The)",Drawing of Favorite Character,$85.85,true
+794,846-185-7461,Never Weaken,Plushie of OC,$82.95,true
+795,856-253-8730,Riki-Oh: The Story of Ricky (Lik Wong),Drawing of Favorite Character,$84.48,true
+796,536-345-3897,No Blade of Grass,Plushie of Favorite Character,$50.71,false
+797,275-266-1583,Shut Up and Play the Hits,Drawing of Favorite Character,$81.91,true
+798,876-587-3551,"Ghost Breakers, The",Drawing of an OC,$80.23,false
+799,720-664-4451,Japanese Story,Drawing of an OC,$83.90,true
+800,288-849-8438,Army of Shadows (L'armée des ombres),Plushie of OC,$87.99,true
+801,647-698-2455,Lost in America,Drawing of Favorite Character,$73.52,true
+802,793-565-8918,Position Among The Stars (Stand van de Sterren),Drawing of an OC,$82.96,true
+803,746-442-6438,Film ist.,Drawing of an OC,$96.45,false
+804,802-848-6366,Illustrious Corpses (Cadaveri eccellenti),Drawing of an OC,$57.13,true
+805,685-988-3405,Funny Bones,Plushie of Favorite Character,$50.51,true
+806,398-826-2586,"Die, Mommie, Die",Plushie of OC,$73.68,false
+807,507-818-5954,Eraser,Drawing of Favorite Character,$86.50,true
+808,695-219-4327,Macross Plus,Drawing of Favorite Character,$70.04,false
+809,146-128-6525,Blood of Redemption,Plushie of Favorite Character,$72.23,false
+810,420-449-6256,Gun Crazy (a.k.a. Deadly Is the Female),Drawing of Favorite Character,$72.76,true
+811,608-191-1453,They Call Me Mister Tibbs!,Plushie of Favorite Character,$64.43,true
+812,278-861-1647,Yumeji,Drawing of Favorite Character,$81.03,true
+813,231-594-4798,Leila,Plushie of OC,$88.68,false
+814,192-749-0986,Mother (Mat),Plushie of OC,$90.55,false
+815,310-148-7361,Megacities,Drawing of an OC,$93.38,false
+816,508-228-2322,Destination Tokyo,Plushie of Favorite Character,$99.01,false
+817,485-706-9945,Holocaust,Plushie of OC,$95.14,false
+818,206-150-2929,"Good Humor Man, The",Plushie of Favorite Character,$85.97,true
+819,704-601-6678,Miss Météo,Plushie of Favorite Character,$61.20,true
+820,236-763-8922,"Definitely, Maybe",Plushie of OC,$71.42,true
+821,160-589-7546,Lollilove,Drawing of Favorite Character,$67.46,false
+822,843-727-3079,Pageant,Plushie of Favorite Character,$75.52,true
+823,613-457-3696,"Flight That Fought Back, The",Drawing of Favorite Character,$73.18,false
+824,741-626-2277,Day of Anger (I giorni dell'ira),Plushie of OC,$54.39,false
+825,192-126-0036,Life,Drawing of Favorite Character,$74.56,true
+826,848-482-6892,Relative Strangers,Drawing of Favorite Character,$82.67,true
+827,329-595-0910,Champion,Plushie of OC,$58.79,false
+828,461-446-6608,Raintree County,Drawing of an OC,$91.79,false
+829,815-620-5937,"Man on the Roof, The (Mannen på taket)",Drawing of an OC,$70.49,true
+830,481-212-5291,Pineapple Express,Drawing of an OC,$53.02,true
+831,774-198-7826,Maniac Cop 2,Drawing of Favorite Character,$94.26,true
+832,613-610-9494,Ju-on: The Beginning of the End (Ju-on: Owari no hajimari),Plushie of Favorite Character,$87.05,false
+833,921-846-0895,"Big Steal, The",Plushie of OC,$99.12,false
+834,789-737-7855,R,Plushie of OC,$70.79,true
+835,508-343-0979,Carry On... Up the Khyber,Drawing of Favorite Character,$71.71,true
+836,814-992-5522,Rush: Beyond the Lighted Stage,Drawing of an OC,$53.33,false
+837,589-746-0044,Giorgino,Plushie of Favorite Character,$78.98,false
+838,532-986-2589,"Suspect, The (Yong-eui-ja)",Drawing of an OC,$53.98,false
+839,147-687-0252,Guess Who's Coming to Dinner,Drawing of an OC,$86.17,true
+840,553-618-3963,"Home and the World, The (Ghare-Baire)",Plushie of Favorite Character,$76.77,true
+841,179-685-8542,"Independent, The",Drawing of an OC,$73.38,true
+842,383-299-3655,"Letter to Momo, A (Momo e no tegami)",Drawing of an OC,$94.69,true
+843,657-933-2221,Berlin: Symphony of a Great City (Berlin: Die Sinfonie der Großstadt),Plushie of OC,$65.85,false
+844,134-853-5797,American Scary,Plushie of OC,$74.15,false
+845,876-728-1862,"Married Woman, A (Une femme mariée)",Plushie of OC,$75.68,true
+846,822-774-4869,Beauty Day,Plushie of OC,$59.06,true
+847,865-947-2659,Riot in Cell Block 11,Plushie of Favorite Character,$82.19,true
+848,952-236-9953,"Wool Cap, The",Drawing of Favorite Character,$76.50,true
+849,576-284-5686,Down to the Sea in Ships,Drawing of Favorite Character,$57.26,true
+850,484-471-2694,Je m'appelle Elisabeth,Plushie of Favorite Character,$55.82,true
+851,705-841-3827,Gentlemen Broncos,Plushie of Favorite Character,$88.04,true
+852,766-705-2888,Antonio Gaudí,Plushie of Favorite Character,$61.51,true
+853,147-116-1205,Quand je serai petit,Drawing of an OC,$51.21,true
+854,145-759-7250,Bruna Surfistinha,Drawing of an OC,$76.22,true
+855,789-799-1784,And Starring Pancho Villa as Himself,Drawing of Favorite Character,$52.21,false
+856,799-691-8470,Paulie,Plushie of OC,$75.46,false
+857,430-467-4396,Election (Hak se wui),Drawing of Favorite Character,$72.31,true
+858,250-867-6283,Kull the Conqueror,Plushie of OC,$98.26,true
+859,942-965-8421,"Lost World, The",Drawing of an OC,$69.46,false
+860,999-899-2855,Asphalt,Plushie of Favorite Character,$68.03,true
+861,764-237-0613,"Kids Are All Right, The",Plushie of OC,$79.66,false
+862,290-563-0238,Iron Eagle,Plushie of OC,$78.39,true
+863,332-267-9245,Funny Farm,Plushie of OC,$61.11,false
+864,542-637-7092,Mosquito Squadron,Plushie of OC,$50.14,false
+865,328-795-6501,The Land Before Time XI: Invasion of the Tinysauruses,Drawing of Favorite Character,$78.60,true
+866,890-736-7287,Legion,Drawing of an OC,$64.99,false
+867,787-969-6362,"Cheerleaders, The",Plushie of OC,$90.29,false
+868,688-824-9060,"Incredible Shrinking Man, The",Plushie of OC,$66.35,false
+869,511-534-0412,Cruel Gun Story (Kenjû zankoku monogatari),Drawing of Favorite Character,$85.03,false
+870,301-977-1357,Piripäiväkirja,Drawing of an OC,$67.15,false
+871,334-818-0234,Thanksgiving Family Reunion (National Lampoon's Holiday Reunion),Plushie of Favorite Character,$59.43,false
+872,944-496-0113,Penthouse North,Drawing of Favorite Character,$73.22,false
+873,627-425-3117,Powers of Ten,Drawing of an OC,$58.87,false
+874,694-464-3292,Hulk Vs.,Drawing of an OC,$98.24,false
+875,118-699-7149,The Magnet,Plushie of OC,$94.60,false
+876,610-407-8937,Soloalbum,Plushie of Favorite Character,$62.85,false
+877,847-704-5223,Before I Self Destruct,Drawing of an OC,$89.66,true
+878,431-182-8431,"Acadia Acadia?!? (L'acadie, l'Acadie)",Drawing of Favorite Character,$52.65,false
+879,651-395-9906,L: Change the World,Plushie of Favorite Character,$63.99,false
+880,628-647-6773,Elles,Plushie of Favorite Character,$86.26,true
+881,574-304-3558,Eccentricities of a Blonde-haired Girl (Singularidades de uma Rapariga Loura),Plushie of Favorite Character,$69.38,true
+882,718-581-2391,Bride of the Monster,Drawing of Favorite Character,$79.52,false
+883,603-464-9801,Suomisen Olli yllättää,Drawing of Favorite Character,$61.14,false
+884,342-131-9566,Blue Skies,Drawing of an OC,$71.39,false
+885,888-298-3210,Princess Mononoke (Mononoke-hime),Plushie of Favorite Character,$62.53,false
+886,226-532-5855,Jesse Stone: Death in Paradise,Plushie of Favorite Character,$73.52,true
+887,785-723-5821,"Ceremony, The (Gishiki)",Drawing of an OC,$91.60,true
+888,857-325-2018,Village of the Damned,Drawing of an OC,$72.95,true
+889,138-830-9067,Madhouse,Plushie of Favorite Character,$98.69,true
+890,248-763-6499,"Beast with a Million Eyes, The",Drawing of an OC,$64.79,false
+891,873-330-7279,About Last Night...,Plushie of OC,$95.98,true
+892,120-412-7132,Land and Freedom (Tierra y libertad),Drawing of an OC,$95.08,false
+893,135-144-0964,I Want to Be a Soldier,Drawing of Favorite Character,$82.18,true
+894,579-901-9688,"Claire's Knee (Genou de Claire, Le)",Plushie of OC,$73.95,false
+895,103-747-3106,Bad Fucking,Drawing of Favorite Character,$56.79,false
+896,347-913-1585,Two for the Road,Drawing of Favorite Character,$75.41,true
+897,135-150-8801,American Raspberry (Prime Time) (Funny America),Plushie of OC,$82.56,true
+898,153-387-1393,Spriggan (Supurigan),Plushie of Favorite Character,$55.61,false
+899,315-723-1981,Head Office,Drawing of Favorite Character,$63.51,false
+900,279-391-1306,"Strawberry Statement, The",Plushie of Favorite Character,$91.41,false
+901,806-605-7750,Cult of the Cobra,Drawing of an OC,$77.02,true
+902,861-734-0973,K2,Drawing of an OC,$80.42,true
+903,645-478-8153,Damnation (Karhozat),Plushie of OC,$74.12,false
+904,151-119-7147,Toy Story 2,Plushie of Favorite Character,$89.30,false
+905,578-219-3729,Madame Rosa (La vie devant soi),Plushie of Favorite Character,$90.66,false
+906,828-867-6971,Gangster No. 1,Drawing of Favorite Character,$87.88,true
+907,895-285-2582,Straight Time,Plushie of Favorite Character,$55.97,true
+908,761-993-1293,Never Met Picasso,Plushie of Favorite Character,$54.13,true
+909,864-557-4242,"Bridesmaid, The (Demoiselle d'honneur, La)",Plushie of OC,$65.69,true
+910,527-157-8258,Kiss the Bride,Plushie of OC,$56.85,false
+911,999-554-7030,"Birdsong (Cant dels ocells, El)",Plushie of Favorite Character,$91.00,true
+912,663-827-6326,"Sugar Curtain, The (El telón de azúcar)",Plushie of Favorite Character,$76.80,true
+913,170-837-1143,"Sin of Madelon Claudet, The",Plushie of Favorite Character,$72.05,false
+914,535-263-9603,Big Pun: The Legacy,Drawing of Favorite Character,$98.89,false
+915,273-741-7507,Shakthi: The Power,Drawing of an OC,$95.82,true
+916,253-593-4481,"A-Team, The",Plushie of Favorite Character,$64.27,false
+917,452-294-8857,Frances,Drawing of an OC,$50.11,false
+918,670-228-7140,Attack of the Giant Leeches,Drawing of an OC,$63.83,true
+919,454-740-5939,"Family, The (Famiglia, La)",Plushie of Favorite Character,$98.14,true
+920,681-435-5153,Decasia: The State of Decay,Drawing of an OC,$79.24,true
+921,799-104-8204,Chicken Run,Drawing of an OC,$84.60,true
+922,289-698-2139,First Sunday,Plushie of OC,$86.82,false
+923,741-792-9666,Asylum,Drawing of Favorite Character,$60.15,true
+924,532-492-9989,"Cutter, The",Plushie of OC,$60.36,true
+925,672-788-3054,Monty Python's And Now for Something Completely Different,Drawing of an OC,$78.73,false
+926,733-228-8965,Love Happy,Drawing of Favorite Character,$50.23,true
+927,832-592-7213,"Krakatoa, East of Java",Drawing of an OC,$63.95,true
+928,236-220-8792,Modify ,Plushie of Favorite Character,$64.22,true
+929,610-120-4968,Prime Suspect 7: The Final Act,Plushie of OC,$83.27,false
+930,353-169-1743,"Angry Red Planet, The",Drawing of Favorite Character,$52.17,true
+931,703-874-1292,Document of the Dead,Drawing of an OC,$61.71,false
+932,333-398-6094,Follow That Dream,Drawing of Favorite Character,$98.90,true
+933,177-193-4629,Madagascar: Escape 2 Africa,Plushie of Favorite Character,$74.10,true
+934,548-461-8962,Attenberg,Drawing of an OC,$91.59,true
+935,599-120-4333,ID:A,Plushie of OC,$50.95,false
+936,747-954-4981,Dead Fury,Drawing of Favorite Character,$57.36,true
+937,770-543-0768,Protocols of Zion,Plushie of OC,$66.23,true
+938,205-833-6117,Night Terrors,Plushie of Favorite Character,$99.30,false
+939,921-977-9460,Secret,Plushie of Favorite Character,$75.74,true
+940,552-690-9089,What If ...,Drawing of Favorite Character,$89.54,true
+941,968-201-5631,Office Space,Plushie of OC,$58.66,false
+942,650-815-7404,Starter for 10,Drawing of an OC,$59.37,true
+943,700-855-4289,Tsotsi,Plushie of Favorite Character,$84.31,true
+944,229-229-8868,Wake of the Red Witch,Plushie of OC,$96.93,false
+945,522-383-4340,Leadbelly,Drawing of an OC,$51.52,false
+946,390-762-4246,"Adventures of Tintin, The",Plushie of OC,$98.11,false
+947,685-659-0354,"Old Fashioned Way, The",Drawing of Favorite Character,$67.62,true
+948,159-414-1974,"Gay Bed and Breakfast of Terror, The",Plushie of Favorite Character,$87.75,false
+949,781-426-0797,"Burning Hot Summer, A (Un été brûlant)",Drawing of an OC,$58.03,false
+950,394-102-7206,Fist of the North Star,Plushie of OC,$70.55,true
+951,340-235-0868,Silent Night,Drawing of Favorite Character,$97.82,true
+952,218-321-1408,Screamers: The Hunting,Drawing of an OC,$69.55,false
+953,436-950-0275,Freeway,Plushie of Favorite Character,$81.89,false
+954,184-905-3067,Arc,Drawing of an OC,$64.60,false
+955,455-458-6500,Conquest of the Planet of the Apes,Plushie of Favorite Character,$87.37,true
+956,667-484-7244,"Drum, The (Drums)",Drawing of Favorite Character,$85.92,false
+957,264-519-9270,In & Out,Plushie of OC,$89.41,false
+958,834-311-4366,My Ain Folk,Drawing of an OC,$54.38,true
+959,827-384-6073,Chocolat,Drawing of Favorite Character,$63.62,false
+960,462-793-8440,Harishchandrachi Factory,Plushie of OC,$66.39,false
+961,608-385-2579,Roman de gare,Drawing of Favorite Character,$74.32,true
+962,812-892-3508,Chak De India!,Drawing of Favorite Character,$63.24,false
+963,368-443-5269,Krakatoa: The Last Days,Drawing of an OC,$93.48,true
+964,707-331-0365,"Cost of Living, The (Le coût de la vie)",Drawing of Favorite Character,$74.53,false
+965,555-603-5369,Uncovered,Drawing of an OC,$54.45,true
+966,199-408-3522,Rain,Drawing of Favorite Character,$86.20,true
+967,279-178-8496,"Train Robbers, The",Plushie of OC,$92.64,false
+968,419-829-4690,Punks,Plushie of Favorite Character,$66.17,false
+969,839-934-2507,Lollilove,Plushie of Favorite Character,$70.83,false
+970,932-481-2090,Ernest Goes to Camp,Drawing of an OC,$80.38,false
+971,164-654-0840,Ex Drummer,Drawing of an OC,$85.19,false
+972,882-699-2327,Krabat,Plushie of OC,$65.73,false
+973,324-401-6673,Hidden Agenda,Drawing of an OC,$71.19,false
+974,755-845-0967,Poseidon,Plushie of Favorite Character,$83.47,true
+975,615-379-2732,Digging to China,Plushie of Favorite Character,$62.18,true
+976,883-946-2313,"Goodbye, South, Goodbye (Nan guo zai jian, nan guo)",Plushie of Favorite Character,$89.65,false
+977,530-671-2863,"Fine Pair, A (Ruba al prossimo tuo)",Drawing of Favorite Character,$61.16,true
+978,751-976-0474,"Godzilla, King of the Monsters! (Kaijû-ô Gojira)",Plushie of Favorite Character,$64.31,true
+979,210-622-1355,Land,Plushie of Favorite Character,$73.30,false
+980,431-862-9901,Odds Against Tomorrow,Drawing of Favorite Character,$63.96,false
+981,605-969-3084,Pusher II: With Blood on My Hands,Plushie of Favorite Character,$98.61,false
+982,952-138-6250,"Haunting in Connecticut, The",Drawing of Favorite Character,$56.48,true
+983,224-264-5101,The Sea That Thinks,Drawing of Favorite Character,$78.19,false
+984,837-921-7762,"Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, The",Plushie of OC,$68.70,true
+985,734-423-6372,Johnny Handsome,Drawing of an OC,$81.98,false
+986,485-568-0411,Destiny (Al-massir),Plushie of Favorite Character,$82.25,false
+987,423-922-4969,Blood River,Drawing of Favorite Character,$89.35,true
+988,803-725-9406,Bush Mama,Drawing of Favorite Character,$73.10,false
+989,513-350-0338,"Babymakers, The",Drawing of an OC,$68.51,true
+990,545-418-3422,Flandres (Flanders),Plushie of OC,$59.89,false
+991,365-504-0235,"Other, The",Plushie of Favorite Character,$71.81,true
+992,302-299-3384,Immortal Sergeant,Drawing of Favorite Character,$54.31,false
+993,779-348-4204,"Killing Machine, The (Icarus)",Plushie of Favorite Character,$66.80,false
+994,312-934-4554,"Centenarian Who Climbed Out the Window and Vanished, The (Hundraåringen som klev ut genom fönstret och försvann)",Plushie of Favorite Character,$73.64,false
+995,967-393-8553,Snow Beast ,Plushie of Favorite Character,$61.82,false
+996,746-104-7138,Sukiyaki Western Django,Plushie of Favorite Character,$80.20,true
+997,410-225-2376,Catacombs,Plushie of Favorite Character,$88.71,false
+998,730-463-6185,Pekka ja Pätkä Suezilla,Plushie of OC,$51.52,false
+999,621-147-2168,Empire State,Drawing of Favorite Character,$85.03,true
+1000,736-886-2346,Gun Fury,Plushie of Favorite Character,$52.96,true
