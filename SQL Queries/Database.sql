@@ -3,9 +3,11 @@
 -- GO
 -- CREATE DATABASE FinalProject
 
-/* Use Microsoft SQL Server Management Studio to add CSV Files to Database */
-USE FinalProject
-GO
-
-ALTER TABLE Orders
-ALTER COLUMN Phone NVARCHAR(50) NOT NULL FOREIGN KEY REFERENCES Customer(Phone)
+/* Used Microsoft SQL Server Management Studio to add CSV Files to Database
+Used SQL to add Foreign Key */
+-- USE FinalProject
+-- GO
+-- ALTER TABLE Orders
+-- ADD CONSTRAINT FK_PersonOrder
+-- FOREIGN KEY (Phone)
+-- REFERENCES Customer(Phone)
