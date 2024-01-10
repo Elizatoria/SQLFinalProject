@@ -11,3 +11,7 @@ Used SQL to add Foreign Key */
 -- ADD CONSTRAINT FK_PersonOrder
 -- FOREIGN KEY (Phone)
 -- REFERENCES Customer(Phone)
+
+/* Backup the Database that was just created */
+BACKUP DATABASE FinalProject
+TO DISK = 'C:/TMP/FinalProject.bak';
