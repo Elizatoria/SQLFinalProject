@@ -8,7 +8,7 @@ GO
 CREATE PROCEDURE NotFinished
 AS
 BEGIN
-SELECT CU.First_Name, CU.Last_Name, 
+SELECT CU.Phone, CU.First_Name, CU.Last_Name, 
 OD.Fandom, OD.Type_of_Artwork
 FROM Orders AS OD
 JOIN Customer AS CU
