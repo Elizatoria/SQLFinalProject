@@ -6,13 +6,13 @@ DROP PROCEDURE IF EXISTS UpdateOrderStatus
 GO
 
 CREATE PROCEDURE UpdateOrderStatus 
-@Phone_Number NVARCHAR(50)
+@Phone_Number NVARCHAR(50), @OrderStatus BIT
 AS
 UPDATE Orders 
-SET Order_Status = 1
+SET Order_Status = @OrderStatus
 WHERE Phone = @Phone_Number
 
-EXECUTE dbo.UpdateOrderStatus '201-881-9460'
+EXECUTE dbo.UpdateOrderStatus '201-881-9460', 1
 GO
 
 SELECT * FROM Orders

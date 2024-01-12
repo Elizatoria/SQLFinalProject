@@ -3,8 +3,9 @@
 -- GO
 -- CREATE DATABASE FinalProject
 
-/* Used Microsoft SQL Server Management Studio to add CSV Files to Database
-Used SQL to add Foreign Key */
+/* Used Microsoft SQL Server Management Studio to add CSV Files to Database */
+
+/* Added Foreign Key */
 -- USE FinalProject
 -- GO
 -- ALTER TABLE Orders
@@ -13,5 +14,5 @@ Used SQL to add Foreign Key */
 -- REFERENCES Customer(Phone)
 
 /* Backup the Database that was just created */
-BACKUP DATABASE FinalProject
-TO DISK = 'C:/TMP/FinalProject.bak';
+-- BACKUP DATABASE FinalProject
+-- TO DISK = 'C:/TMP/FinalProject.bak';
