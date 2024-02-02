@@ -4,9 +4,31 @@ SQL/ETL Final Project
 Database Diagram
 https://app.quickdatabasediagrams.com/#/d/T10lf8
 
+----------
+
 Used https://cobbl.io/ to make the Customer.csv File.
+__Columns__
+Phone (PK, nvarchar(50), not null)
+First_Name (nvarchar(50), not null)
+Last_Name (nvarchar(50), not null)
+Email (nvarchar(50), not null)
+Street (nvarchar(50), not null)
+City (nvarchar(50), not null)
+State_Abbr (nvarchar(50), not null)
+Zip_Code (int, not null)
+
+----------
 
 Used https://www.mockaroo.com/ to make the Orders.csv File.
+__Columns__
+Order_ID (PK, smallint, not null)
+Phone (FK, nvarchar(50), not null)
+Fandom (nvarchar(max), not null)
+Type_of_Artwork (nvarchar(50), not null)
+Price (money, not null)
+Order_Status (bit, not null)
+
+----------
 
 The goal of this project was to created a Database Infrastructure using SQL and Talend for a Startup Company. I chose an artist drawing fanart and making plushies. There are two tables in the Database, one for the Customer Contact Information and the other for the Order Imformation. I used the Phone Number as the Customer ID to connect the information of the two tables.
 
